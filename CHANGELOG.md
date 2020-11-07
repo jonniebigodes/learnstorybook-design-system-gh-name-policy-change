@@ -1,5 +1,17 @@
 # v0.2.1 (Sat Nov 07 2020)
 
+#### ⚠️ Pushed to `main`
+
+- auto script ([@jonniebigodes](https://github.com/jonniebigodes))
+
+#### Authors: 1
+
+- [@jonniebigodes](https://github.com/jonniebigodes)
+
+---
+
+# v0.2.1 (Sat Nov 07 2020)
+
 
 
 ---
