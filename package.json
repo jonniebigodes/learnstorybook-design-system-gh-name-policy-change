@@ -25,7 +25,8 @@
     "storybook": "start-storybook -p 6006 -s public --no-dll",
     "build-storybook": "build-storybook -s public --no-dll",
     "build-storybook-docs": "build-storybook -s public --docs",
-    "build-design-system": "cross-env BABEL_ENV=production babel src -d dist"
+    "build-design-system": "cross-env BABEL_ENV=production babel src -d dist",
+    "release": "auto shipit --base-branch=main"
   },
   "eslintConfig": {
     "extends": "react-app"
